@@ -66,5 +66,5 @@ document.getElementById("cajaposteos").value = "";
 
 }
 
-/*Si llamo a la funcion, el corazon y el escribio aparecen por defecto bajo el cuadro de comentarios
+/*Si llamo a la funcion, el corazon y el "escribio: " aparecen por defecto bajo el cuadro de comentarios
 asi que no es necesario ponerla siempre */
