@@ -65,5 +65,6 @@ document.getElementById("nombre").value = "";
 document.getElementById("cajaposteos").value = "";
 
 }
-/* IMPORTANTE: R E C O R D A R   L L A M A R   F U N C I O N */
-agregaPosteo();
+
+/*Si llamo a la funcion, el corazon y el escribio aparecen por defecto bajo el cuadro de comentarios
+asi que no es necesario ponerla siempre */
